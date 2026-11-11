@@ -1,0 +1,15 @@
+{
+  "name": "tekhnodim",
+  "version": "1.0.0",
+  "description": "Інтернет-магазин побутової техніки",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "nodemailer": "^10.5.0"
+  }
+}

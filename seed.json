@@ -1,0 +1,727 @@
+[
+  {
+    "id": 1,
+    "cat": "Велика побутова техніка",
+    "name": "Пральна машина",
+    "maker": "Samsung",
+    "model": "WW80T4040",
+    "price": 17999,
+    "warranty": 36,
+    "emoji": "🧺",
+    "specs": "Завантаження: 8 кг\nВіджимання: 1400 об/хв\nКлас енергоспоживання: A\nРежимів прання: 14",
+    "desc": "Якісна техніка Samsung для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/1-1.jpg",
+    "photos": [
+      "/img/products/1-1.jpg",
+      "/img/products/1-2.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "cat": "Велика побутова техніка",
+    "name": "Холодильник двокамерний",
+    "maker": "LG",
+    "model": "GBB72SADFN",
+    "price": 28999,
+    "warranty": 24,
+    "emoji": "🧊",
+    "specs": "Об’єм: 384 л\nNo Frost: так\nКлас: D\nВисота: 203 см",
+    "desc": "Якісна техніка LG для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/2-1.jpg",
+    "photos": [
+      "/img/products/2-1.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "cat": "Велика побутова техніка",
+    "name": "Посудомийна машина",
+    "maker": "Bosch",
+    "model": "SMS25AW05E",
+    "price": 19999,
+    "warranty": 24,
+    "emoji": "🍽️",
+    "specs": "Комплектів посуду: 12\nРівень шуму: 48 дБ\nКлас: E",
+    "desc": "Якісна техніка Bosch для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/3-1.jpg",
+    "photos": [
+      "/img/products/3-1.jpg",
+      "/img/products/3-2.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "cat": "Велика побутова техніка",
+    "name": "Сушильна машина",
+    "maker": "Electrolux",
+    "model": "EW7H5",
+    "price": 31999,
+    "warranty": 24,
+    "emoji": "♨️",
+    "specs": "Завантаження: 8 кг\nТепловий насос: так\nКлас: A++",
+    "desc": "Якісна техніка Electrolux для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/4-1.jpg",
+    "photos": [
+      "/img/products/4-1.jpg",
+      "/img/products/4-2.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "cat": "Велика побутова техніка",
+    "name": "Морозильна камера",
+    "maker": "Gorenje",
+    "model": "FN4171CW",
+    "price": 15499,
+    "warranty": 24,
+    "emoji": "❄️",
+    "specs": "Об’єм: 220 л\nВисота: 171 см\nКлас: F",
+    "desc": "Якісна техніка Gorenje для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/5-1.jpg",
+    "photos": [
+      "/img/products/5-1.jpg",
+      "/img/products/5-2.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "cat": "Дрібна побутова техніка",
+    "name": "Пилосос роботизований",
+    "maker": "Xiaomi",
+    "model": "Robot S10",
+    "price": 8999,
+    "warranty": 12,
+    "emoji": "🤖",
+    "specs": "Потужність всмоктування: 4000 Па\nЧас роботи: 130 хв\nМийка: так",
+    "desc": "Якісна техніка Xiaomi для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/6-1.jpg",
+    "photos": [
+      "/img/products/6-1.jpg",
+      "/img/products/6-2.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "cat": "Дрібна побутова техніка",
+    "name": "Праска парова",
+    "maker": "Philips",
+    "model": "DST5030",
+    "price": 2799,
+    "warranty": 24,
+    "emoji": "👔",
+    "specs": "Потужність: 2600 Вт\nПаровий удар: 220 г/хв\nПідошва: кераглайд",
+    "desc": "Якісна техніка Philips для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/7-1.jpg",
+    "photos": [
+      "/img/products/7-1.jpg",
+      "/img/products/7-2.jpg",
+      "/img/products/7-3.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "cat": "Дрібна побутова техніка",
+    "name": "Електрочайник",
+    "maker": "Tefal",
+    "model": "KO1908E0",
+    "price": 2109,
+    "warranty": 24,
+    "emoji": "🫖",
+    "specs": "Об’єм: 1.5 л\nПотужність: 2200 Вт\nКорпус: метал",
+    "desc": "Якісна техніка Tefal для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/8-1.jpg",
+    "photos": [
+      "/img/products/8-1.jpg",
+      "/img/products/8-2.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "cat": "Дрібна побутова техніка",
+    "name": "Фен",
+    "maker": "Dyson",
+    "model": "Supersonic",
+    "price": 17999,
+    "warranty": 24,
+    "emoji": "💇",
+    "specs": "Потужність: 1600 Вт\nРежимів: 4\nІонізація: так",
+    "desc": "Якісна техніка Dyson для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/9-1.jpg",
+    "photos": [
+      "/img/products/9-1.jpg",
+      "/img/products/9-2.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "cat": "Дрібна побутова техніка",
+    "name": "Обігрівач інфрачервоний",
+    "maker": "UFO",
+    "model": "Max 2300",
+    "price": 6451,
+    "warranty": 12,
+    "emoji": "🔥",
+    "specs": "Потужність: 2300 Вт\nПлоща обігріву: до 40 м²\nКерування: пульт",
+    "desc": "Якісна техніка UFO для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/10-1.jpg",
+    "photos": [
+      "/img/products/10-1.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "cat": "Техніка для кухні",
+    "name": "Мультиварка",
+    "maker": "Redmond",
+    "model": "RMC-M95",
+    "price": 3299,
+    "warranty": 12,
+    "emoji": "🍲",
+    "specs": "Об’єм чаші: 5 л\nПрограм: 17\nПотужність: 860 Вт",
+    "desc": "Якісна техніка Redmond для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/11-1.jpg",
+    "photos": [
+      "/img/products/11-1.jpg",
+      "/img/products/11-2.jpg",
+      "/img/products/11-3.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "cat": "Техніка для кухні",
+    "name": "Мікрохвильова піч",
+    "maker": "Panasonic",
+    "model": "NN-ST34",
+    "price": 4599,
+    "warranty": 24,
+    "emoji": "📡",
+    "specs": "Об’єм: 25 л\nПотужність: 800 Вт\nКерування: сенсорне",
+    "desc": "Якісна техніка Panasonic для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/12-1.jpg",
+    "photos": [
+      "/img/products/12-1.jpg",
+      "/img/products/12-2.jpg",
+      "/img/products/12-3.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "cat": "Техніка для кухні",
+    "name": "Кавомашина",
+    "maker": "DeLonghi",
+    "model": "ECAM 22.110",
+    "price": 16999,
+    "warranty": 24,
+    "emoji": "☕",
+    "specs": "Тиск: 15 бар\nКавомолка: вбудована\nКапучинатор: так",
+    "desc": "Якісна техніка DeLonghi для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/13-1.jpg",
+    "photos": [
+      "/img/products/13-1.jpg",
+      "/img/products/13-2.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "cat": "Техніка для кухні",
+    "name": "Витяжка вбудована",
+    "maker": "Gunter & Hauer",
+    "model": "Atala 63 KGLW",
+    "price": 8549,
+    "warranty": 24,
+    "emoji": "💨",
+    "specs": "Продуктивність: 600 м³/год\nШирина: 60 см\nШвидкостей: 3",
+    "desc": "Якісна техніка Gunter & Hauer для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/14-1.jpg",
+    "photos": [
+      "/img/products/14-1.jpg",
+      "/img/products/14-2.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "cat": "Техніка для кухні",
+    "name": "Блендер занурювальний",
+    "maker": "Bosch",
+    "model": "MSM67170",
+    "price": 2299,
+    "warranty": 24,
+    "emoji": "🥤",
+    "specs": "Потужність: 750 Вт\nНасадок: 3\nКорпус: пластик/метал",
+    "desc": "Якісна техніка Bosch для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/15-1.jpg",
+    "photos": [
+      "/img/products/15-1.jpg",
+      "/img/products/15-2.jpg",
+      "/img/products/15-3.jpg",
+      "/img/products/15-4.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "cat": "Велика побутова техніка",
+    "name": "Плита електрична",
+    "maker": "Gorenje",
+    "model": "GEC5C40WG",
+    "price": 12999,
+    "warranty": 24,
+    "emoji": "🔲",
+    "specs": "Конфорок: 4\nДуховка: 70 л\nШирина: 50 см",
+    "desc": "Якісна техніка Gorenje для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/16-1.jpg",
+    "photos": [
+      "/img/products/16-1.jpg",
+      "/img/products/16-2.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "cat": "Велика побутова техніка",
+    "name": "Духова шафа",
+    "maker": "Bosch",
+    "model": "HBF113BR0S",
+    "price": 14999,
+    "warranty": 24,
+    "emoji": "♨️",
+    "specs": "Об’єм: 66 л\nРежимів: 7\nКлас: A",
+    "desc": "Якісна техніка Bosch для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/17-1.jpg",
+    "photos": [
+      "/img/products/17-1.jpg",
+      "/img/products/17-2.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "cat": "Велика побутова техніка",
+    "name": "Кондиціонер інверторний",
+    "maker": "Cooper&Hunter",
+    "model": "CH-S09FTXQ",
+    "price": 18999,
+    "warranty": 36,
+    "emoji": "❄️",
+    "specs": "Площа: до 25 м²\nІнвертор: так\nWi-Fi: так",
+    "desc": "Якісна техніка Cooper&Hunter для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/18-1.jpg",
+    "photos": [
+      "/img/products/18-1.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "cat": "Велика побутова техніка",
+    "name": "Пральна машина вузька",
+    "maker": "Indesit",
+    "model": "BWSA 61051",
+    "price": 8999,
+    "warranty": 24,
+    "emoji": "🧺",
+    "specs": "Завантаження: 6 кг\nВіджимання: 1000 об/хв\nГлибина: 43 см",
+    "desc": "Якісна техніка Indesit для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/19-1.jpg",
+    "photos": [
+      "/img/products/19-1.jpg",
+      "/img/products/19-2.jpg"
+    ]
+  },
+  {
+    "id": 20,
+    "cat": "Велика побутова техніка",
+    "name": "Бойлер електричний",
+    "maker": "Ariston",
+    "model": "ABS BLU 80",
+    "price": 7499,
+    "warranty": 24,
+    "emoji": "🚿",
+    "specs": "Об’єм: 80 л\nПотужність: 1500 Вт\nМонтаж: вертикальний",
+    "desc": "Якісна техніка Ariston для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/20-1.jpg",
+    "photos": [
+      "/img/products/20-1.jpg",
+      "/img/products/20-2.jpg"
+    ]
+  },
+  {
+    "id": 21,
+    "cat": "Дрібна побутова техніка",
+    "name": "Тостер",
+    "maker": "Philips",
+    "model": "HD2581",
+    "price": 1599,
+    "warranty": 24,
+    "emoji": "🍞",
+    "specs": "Потужність: 830 Вт\nСтупенів підсмаження: 8\nФункція розморозки: так",
+    "desc": "Якісна техніка Philips для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/21-1.jpg",
+    "photos": [
+      "/img/products/21-1.jpg",
+      "/img/products/21-2.jpg"
+    ]
+  },
+  {
+    "id": 22,
+    "cat": "Дрібна побутова техніка",
+    "name": "Міксер",
+    "maker": "Bosch",
+    "model": "MFQ36400",
+    "price": 2399,
+    "warranty": 24,
+    "emoji": "🥣",
+    "specs": "Потужність: 450 Вт\nШвидкостей: 5\nНасадок: 4",
+    "desc": "Якісна техніка Bosch для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/22-1.jpg",
+    "photos": [
+      "/img/products/22-1.jpg",
+      "/img/products/22-2.jpg",
+      "/img/products/22-3.jpg"
+    ]
+  },
+  {
+    "id": 23,
+    "cat": "Дрібна побутова техніка",
+    "name": "Відпарювач",
+    "maker": "Tefal",
+    "model": "DT6130",
+    "price": 3199,
+    "warranty": 24,
+    "emoji": "👕",
+    "specs": "Потужність: 1600 Вт\nНагрів: 45 с\nРезервуар: 0.2 л",
+    "desc": "Якісна техніка Tefal для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/23-1.jpg",
+    "photos": [
+      "/img/products/23-1.jpg",
+      "/img/products/23-2.jpg"
+    ]
+  },
+  {
+    "id": 24,
+    "cat": "Дрібна побутова техніка",
+    "name": "Електробритва",
+    "maker": "Braun",
+    "model": "Series 5",
+    "price": 4999,
+    "warranty": 24,
+    "emoji": "🪒",
+    "specs": "Живлення: акумулятор\nЧас роботи: 50 хв\nВологе гоління: так",
+    "desc": "Якісна техніка Braun для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/24-1.jpg",
+    "photos": [
+      "/img/products/24-1.jpg",
+      "/img/products/24-2.jpg",
+      "/img/products/24-3.jpg"
+    ]
+  },
+  {
+    "id": 25,
+    "cat": "Дрібна побутова техніка",
+    "name": "Вентилятор підлоговий",
+    "maker": "Ardesto",
+    "model": "FN-1608",
+    "price": 1299,
+    "warranty": 12,
+    "emoji": "🌀",
+    "specs": "Діаметр: 40 см\nШвидкостей: 3\nПотужність: 45 Вт",
+    "desc": "Якісна техніка Ardesto для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/25-1.jpg",
+    "photos": [
+      "/img/products/25-1.jpg",
+      "/img/products/25-2.jpg",
+      "/img/products/25-3.jpg"
+    ]
+  },
+  {
+    "id": 26,
+    "cat": "Техніка для кухні",
+    "name": "Хлібопічка",
+    "maker": "Moulinex",
+    "model": "OW3101",
+    "price": 4299,
+    "warranty": 24,
+    "emoji": "🍞",
+    "specs": "Програм: 12\nВага випічки: до 1 кг\nТаймер: так",
+    "desc": "Якісна техніка Moulinex для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/26-1.jpg",
+    "photos": [
+      "/img/products/26-1.jpg",
+      "/img/products/26-2.jpg"
+    ]
+  },
+  {
+    "id": 27,
+    "cat": "Техніка для кухні",
+    "name": "Соковитискач",
+    "maker": "Philips",
+    "model": "HR1832",
+    "price": 2899,
+    "warranty": 24,
+    "emoji": "🍊",
+    "specs": "Потужність: 500 Вт\nКонтейнер: 2 л\nКорпус: пластик",
+    "desc": "Якісна техніка Philips для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/27-1.jpg",
+    "photos": [
+      "/img/products/27-1.jpg",
+      "/img/products/27-2.jpg"
+    ]
+  },
+  {
+    "id": 28,
+    "cat": "Техніка для кухні",
+    "name": "Йогуртниця",
+    "maker": "Tefal",
+    "model": "YG2601",
+    "price": 1899,
+    "warranty": 24,
+    "emoji": "🥛",
+    "specs": "Баночок: 7\nПотужність: 14 Вт\nОб’єм: 1.4 л",
+    "desc": "Якісна техніка Tefal для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/28-1.jpg",
+    "photos": [
+      "/img/products/28-1.jpg"
+    ]
+  },
+  {
+    "id": 29,
+    "cat": "Техніка для кухні",
+    "name": "Гриль електричний",
+    "maker": "Tefal",
+    "model": "OptiGrill",
+    "price": 6999,
+    "warranty": 24,
+    "emoji": "🥩",
+    "specs": "Потужність: 2000 Вт\nПрограм: 6\nАнтипригарне покриття: так",
+    "desc": "Якісна техніка Tefal для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/29-1.jpg",
+    "photos": [
+      "/img/products/29-1.jpg",
+      "/img/products/29-2.jpg",
+      "/img/products/29-3.jpg"
+    ]
+  },
+  {
+    "id": 30,
+    "cat": "Техніка для кухні",
+    "name": "М’ясорубка",
+    "maker": "Zelmer",
+    "model": "ZMM9801",
+    "price": 3499,
+    "warranty": 24,
+    "emoji": "🍖",
+    "specs": "Потужність: 2000 Вт\nПродуктивність: 3 кг/хв\nНасадок: 3",
+    "desc": "Якісна техніка Zelmer для вашого дому. Офіційна гарантія виробника.",
+    "photo": "/img/products/30-1.jpg",
+    "photos": [
+      "/img/products/30-1.jpg",
+      "/img/products/30-2.jpg"
+    ]
+  },
+  {
+    "id": 31,
+    "cat": "Велика побутова техніка",
+    "name": "Холодильник Side-by-Side",
+    "maker": "Samsung",
+    "model": "RS62R5031M9",
+    "price": 32999,
+    "warranty": 24,
+    "emoji": "🧊",
+    "specs": "Об’єм: 647 л\nNo Frost: так\nДисплей: зовнішній",
+    "desc": "Якісна техніка Samsung для вашого дому. Офіційна гарантія виробника.",
+    "photo": "",
+    "photos": []
+  },
+  {
+    "id": 32,
+    "cat": "Велика побутова техніка",
+    "name": "Посудомийна машина",
+    "maker": "Bosch",
+    "model": "SMS25AI05E",
+    "price": 18999,
+    "warranty": 24,
+    "emoji": "🍽️",
+    "specs": "Комплектів посуду: 12\nПрограм: 5\nРівень шуму: 48 дБ",
+    "desc": "Якісна техніка Bosch для вашого дому. Офіційна гарантія виробника.",
+    "photo": "",
+    "photos": []
+  },
+  {
+    "id": 33,
+    "cat": "Велика побутова техніка",
+    "name": "Сушильна машина",
+    "maker": "Samsung",
+    "model": "DV90T5240AE",
+    "price": 27999,
+    "warranty": 24,
+    "emoji": "🧺",
+    "specs": "Завантаження: 9 кг\nТепловий насос: так\nКлас енергоефективності: A++",
+    "desc": "Якісна техніка Samsung для вашого дому. Офіційна гарантія виробника.",
+    "photo": "",
+    "photos": []
+  },
+  {
+    "id": 34,
+    "cat": "Велика побутова техніка",
+    "name": "Морозильна камера",
+    "maker": "Beko",
+    "model": "RFNE312E33WN",
+    "price": 15999,
+    "warranty": 24,
+    "emoji": "❄️",
+    "specs": "Об’єм: 275 л\nNo Frost: так\nАвтономне збереження холоду: 18 год",
+    "desc": "Якісна техніка Beko для вашого дому. Офіційна гарантія виробника.",
+    "photo": "",
+    "photos": []
+  },
+  {
+    "id": 35,
+    "cat": "Велика побутова техніка",
+    "name": "Варильна поверхня індукційна",
+    "maker": "Electrolux",
+    "model": "EIV K",
+    "price": 11999,
+    "warranty": 24,
+    "emoji": "♨️",
+    "specs": "Конфорок: 4\nКерування: сенсорне\nПотужність: 7200 Вт",
+    "desc": "Якісна техніка Electrolux для вашого дому. Офіційна гарантія виробника.",
+    "photo": "",
+    "photos": []
+  },
+  {
+    "id": 36,
+    "cat": "Велика побутова техніка",
+    "name": "Пральна машина з сушкою",
+    "maker": "LG",
+    "model": "F2V5HG0W",
+    "price": 22999,
+    "warranty": 24,
+    "emoji": "🫧",
+    "specs": "Прання: 7 кг\nСушіння: 4 кг\nІнверторний двигун: так",
+    "desc": "Якісна техніка LG для вашого дому. Офіційна гарантія виробника.",
+    "photo": "",
+    "photos": []
+  },
+  {
+    "id": 37,
+    "cat": "Дрібна побутова техніка",
+    "name": "Пилосос вертикальний",
+    "maker": "Dyson",
+    "model": "V8 Advanced",
+    "price": 15999,
+    "warranty": 24,
+    "emoji": "🧹",
+    "specs": "Час роботи: до 40 хв\nФільтрація: HEPA\nТип прибирання: сухе",
+    "desc": "Якісна техніка Dyson для вашого дому. Офіційна гарантія виробника.",
+    "photo": "",
+    "photos": []
+  },
+  {
+    "id": 38,
+    "cat": "Дрібна побутова техніка",
+    "name": "Робот-пилосос з мийкою",
+    "maker": "Roborock",
+    "model": "Q8 Max+",
+    "price": 14999,
+    "warranty": 24,
+    "emoji": "🤖",
+    "specs": "Потужність всмоктування: 5500 Па\nНавігація: LiDAR\nСтанція самоочищення: так",
+    "desc": "Якісна техніка Roborock для вашого дому. Офіційна гарантія виробника.",
+    "photo": "",
+    "photos": []
+  },
+  {
+    "id": 39,
+    "cat": "Дрібна побутова техніка",
+    "name": "Кавомолка електрична",
+    "maker": "Bosch",
+    "model": "TSM6A013B",
+    "price": 1199,
+    "warranty": 24,
+    "emoji": "☕",
+    "specs": "Потужність: 180 Вт\nМісткість: 75 г\nНожі: нержавіюча сталь",
+    "desc": "Якісна техніка Bosch для вашого дому. Офіційна гарантія виробника.",
+    "photo": "",
+    "photos": []
+  },
+  {
+    "id": 40,
+    "cat": "Дрібна побутова техніка",
+    "name": "Фритюрниця без олії",
+    "maker": "Philips",
+    "model": "HD9200/90",
+    "price": 4999,
+    "warranty": 24,
+    "emoji": "🍟",
+    "specs": "Об’єм: 4.1 л\nПотужність: 1400 Вт\nТехнологія: Rapid Air",
+    "desc": "Якісна техніка Philips для вашого дому. Офіційна гарантія виробника.",
+    "photo": "",
+    "photos": []
+  },
+  {
+    "id": 41,
+    "cat": "Дрібна побутова техніка",
+    "name": "Зволожувач повітря",
+    "maker": "Xiaomi",
+    "model": "Smart Humidifier 2",
+    "price": 2499,
+    "warranty": 24,
+    "emoji": "💧",
+    "specs": "Об’єм резервуара: 4.5 л\nПродуктивність: 350 мл/год\nКерування: Wi-Fi",
+    "desc": "Якісна техніка Xiaomi для вашого дому. Офіційна гарантія виробника.",
+    "photo": "",
+    "photos": []
+  },
+  {
+    "id": 42,
+    "cat": "Дрібна побутова техніка",
+    "name": "Електрична зубна щітка",
+    "maker": "Oral-B",
+    "model": "Pro 3 3500",
+    "price": 2799,
+    "warranty": 24,
+    "emoji": "🪥",
+    "specs": "Режимів: 3\nДатчик тиску: так\nАвтономність: до 14 днів",
+    "desc": "Якісна техніка Oral-B для вашого дому. Офіційна гарантія виробника.",
+    "photo": "",
+    "photos": []
+  },
+  {
+    "id": 43,
+    "cat": "Техніка для кухні",
+    "name": "Кухонна машина",
+    "maker": "Kenwood",
+    "model": "KVC3100S",
+    "price": 12999,
+    "warranty": 24,
+    "emoji": "🥣",
+    "specs": "Потужність: 1000 Вт\nОб’єм чаші: 4.6 л\nШвидкостей: 6",
+    "desc": "Якісна техніка Kenwood для вашого дому. Офіційна гарантія виробника.",
+    "photo": "",
+    "photos": []
+  },
+  {
+    "id": 44,
+    "cat": "Техніка для кухні",
+    "name": "Аерогриль",
+    "maker": "Tefal",
+    "model": "EY505D15",
+    "price": 5999,
+    "warranty": 24,
+    "emoji": "🍗",
+    "specs": "Об’єм: 4.2 л\nПотужність: 1550 Вт\nПрограм: 8",
+    "desc": "Якісна техніка Tefal для вашого дому. Офіційна гарантія виробника.",
+    "photo": "",
+    "photos": []
+  },
+  {
+    "id": 45,
+    "cat": "Техніка для кухні",
+    "name": "Вакууматор",
+    "maker": "Gorenje",
+    "model": "VS120E",
+    "price": 2499,
+    "warranty": 24,
+    "emoji": "📦",
+    "specs": "Потужність: 120 Вт\nШирина шва: 30 см\nРежими: сухий/вологий",
+    "desc": "Якісна техніка Gorenje для вашого дому. Офіційна гарантія виробника.",
+    "photo": "",
+    "photos": []
+  }
+]
